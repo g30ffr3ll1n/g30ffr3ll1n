@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g30ffr3ll1n&count_private=true&show_icons=true&theme=dracula)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_geoff&layout=compact)](https://github.com/g30ffr3ll1n)
